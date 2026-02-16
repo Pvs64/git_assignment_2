@@ -1,8 +1,12 @@
 # git_assignment_2
 
-Name: Praphull Vikram Singh 
-Roll No: 2024BCS-053
-Course: BCS 
-Semester: IV
+<h2 align="center">Student Details</h2>
 
-edited by Prava
+<p align="center">
+  <b>Name:</b> Praphull Vikram Singh <br>
+  <b>Roll No:</b> 2024BCS-053 <br>
+  <b>Course:</b> BCS <br>
+  <b>Semester:</b> IV
+</p>
+
+<p align="center"><i>Edited by Prava</i></p>
